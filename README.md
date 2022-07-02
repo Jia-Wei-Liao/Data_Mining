@@ -9,7 +9,7 @@ This repository is implementation of homeworks and final project for IIM5237 Dat
 
 ## HW3: PM2.5 Concentration Prediction by Linear Regression and XGBoost
 
-## HW4: Yelp Dataset Sentiment Analysis by CNN anc LSTM
+## HW4: Yelp Dataset Sentiment Analysis by CNN and LSTM
 
 ## HW5: Recommeder System on Spark
 
